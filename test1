@@ -2,4 +2,8 @@ this is fixing prodcution issue
 ithis is a test file
 this is fork file
 this is github learning
+<<<<<<< HEAD
 learning git restore 
+=======
+this is new data
+>>>>>>> f07185e374d7a620ac2dab562bacb7272fbe4f1b
